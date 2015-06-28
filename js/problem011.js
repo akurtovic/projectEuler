@@ -4,6 +4,8 @@ Problem 11 - Largest product in a grid
 In the 20×20 grid below, four numbers along a diagonal line have been marked in red.
 What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the 20×20 grid?
 
+Notes:
+1st implementation: [Finished in 0.1s]
 */
 
 var rawGrid =  "08 02 22 97 38 15 00 40 00 75 04 05 07 78 52 12 50 77 91 08 " +
