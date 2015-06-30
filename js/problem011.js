@@ -143,10 +143,3 @@ for (var r=0; r<20; r++) {
 }
 
 console.log('result=',highestSum);
-
-
-
-
-
-
-
