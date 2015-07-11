@@ -35,7 +35,7 @@ function sequence(start, current, steps, updateLongestChain) {
 function updateLongestChain(chainLength, startingNumber) {
   if (chainLength > longestChain) {
     longestChain = chainLength;
-    console.log("Starting number " + startingNumber + " prodcued longest chain so far:", longestChain);
+    console.log("Starting number " + startingNumber + " produced longest chain so far:", longestChain);
   }
 }
 
